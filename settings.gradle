@@ -1,0 +1,3 @@
+include ':dz1'
+include ':app'
+rootProject.name = "LibrariesAndroid"
